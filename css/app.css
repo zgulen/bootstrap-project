@@ -11,6 +11,7 @@
   transition: color 1s;
 }
 
+
 .bg-light .nav-link:hover{
   color: var(--red);
 }
